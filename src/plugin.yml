@@ -1,0 +1,15 @@
+name: AscalterBuild
+version: 1.0
+author: trikeyyy
+main: Build.Main.Build
+
+commands:
+  gamemode:
+    aliases: [gm]
+  spawn:
+  setspawn:
+  clan:
+  giveall:
+  kit:
+  clearchat:
+    aliases: [cc]
